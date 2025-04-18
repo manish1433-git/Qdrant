@@ -1,0 +1,7 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.ZPG0qLmypZKLxcliRaY1_t5hrZAGYtUOKucMOieZ-g0
+
+
+
+curl \
+    -X GET 'https://1dd86f62-3818-4ddb-9b71-a8d07f61902f.us-east4-0.gcp.cloud.qdrant.io:6333' \
+    --header 'api-key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.ZPG0qLmypZKLxcliRaY1_t5hrZAGYtUOKucMOieZ-g0'
