@@ -1,0 +1,2 @@
+# Qdrant
+contains qdrant configurations
